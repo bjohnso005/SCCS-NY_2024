@@ -1,5 +1,6 @@
-# SCCS-NY 2022 Workshop 
 ![](logo.png)
+
+# SCCS-NY 2022 Workshop 
 
 ## Interactive, reproducible, and accessible species distribution modeling for conservation with Wallace
 
