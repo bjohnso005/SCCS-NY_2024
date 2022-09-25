@@ -2,7 +2,7 @@
 
 ## Interactive, reproducible, and accessible species distribution modeling for conservation with Wallace
 
-![](logo.png){#id .class width=20% height=20%}
+![](logo.png)
 
 # Organizers
 
