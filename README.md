@@ -6,8 +6,8 @@
 
 # Organizers
 
--   Samuel Chang, Pace University (mailto:changalfsam@gmail.com)
--   Bethany A. Johnson, City College of New York, CUNY (mailto:wallaceecomod@gmail.com)
+-   Samuel Chang, Pace University (changalfsam@gmail.com)
+-   Bethany A. Johnson, City College of New York, CUNY (wallaceecomod@gmail.com)
 
 # Logistics
 
