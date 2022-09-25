@@ -1,13 +1,12 @@
-# SCCS-NY 2022 Workshop
+# SCCS-NY 2022 Workshop 
+![](logo.png)
 
 ## Interactive, reproducible, and accessible species distribution modeling for conservation with Wallace
 
-![](logo.png)
-
 # Organizers
 
--   Samuel Chang, Pace University ([changalfsam\@gmail.com](mailto:changalfsam@gmail.com){.email})
--   Bethany A. Johnson, City College of New York, CUNY ([wallaceecomod\@gmail.com](mailto:wallaceecomod@gmail.com){.email})
+-   Samuel Chang, Pace University (changalfsam@gmail.com)
+-   Bethany A. Johnson, City College of New York, CUNY (wallaceecomod@gmail.com)
 
 # Logistics
 
