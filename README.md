@@ -13,7 +13,7 @@
 
 -   Date: Monday, October 3rd
 -   Time: 1:00 - 4:00 PM EDT
--   Zoom: ...
+-   Location: Zoom
 
 # Description
 
@@ -60,9 +60,12 @@ run_wallace()
 # Data for workshop
 During the workshop, we will allow you to choose your own species to work with during the demo portion. However, in the event of internet connectivity issues or issues with GBIF during the workshop, we have included a dataset you can work with here.
 
-- <a href="" target="_blank">Occurrence Data</a>
-- <a href="" target="_blank">Environmental Data</a>
-- <a href="" target="_blank">SDM</a>
+<a href="https://drive.google.com/drive/folders/1oqBpCfFLlUUAMtg_63JUX5jpfGgdnw20?usp=sharing" target="_blank">Canned Data</a>  
+Includes:  
+- Occurrence data for two species  
+- Environmmental data at 2.5arcmin resolution  
+- a binary SDM  
+- a shapefile of Colombia  
 
 # Wallace Specific Resources
 
