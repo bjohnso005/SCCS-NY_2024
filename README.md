@@ -1,19 +1,20 @@
 ![](logo.png)
 
-# SCCS-NY 2022 Workshop 
+# SCCS-NY 2024 Workshop 
 
 ## Interactive, reproducible, and accessible species distribution modeling for conservation with Wallace
 
 # Organizers
 
--   Samuel Chang, Pace University (changalfsam@gmail.com)
--   Bethany A. Johnson, City College of New York, CUNY (wallaceecomod@gmail.com)
+-   Andrew Gaier, Grad Center-CUNY (agaier@gradcenter.cuny.edu)
+-   Daniel F. López-Lozano, CBC-AMNH (ADD dani email?)
+-   Bethany A. Johnson, CBC-AMNH (wallaceecomod@gmail.com)
 
 # Logistics
 
--   Date: Monday, October 3rd
--   Time: 1:00 - 4:00 PM EDT
--   Location: Zoom
+-   Date: Wednesday, October 9rd
+-   Time: 12:45 - 3:00 PM EDT
+-   Location: TBD
 
 # Description
 
