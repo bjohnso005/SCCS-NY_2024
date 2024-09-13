@@ -34,9 +34,9 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 
 Please take the pre- and post-workshop surveys. They really help us!
 
--   Before the workshop: <a href="https://forms.gle/4X7vY9yRSoLHZnkB6" target="_blank">Pre-workshop survey</a>
+-   Before the workshop: <a href="https://forms.gle/EzWNJmJp1oGM9W3y8" target="_blank">Pre-workshop survey</a>
 
--   After the workshop: <a href="https://forms.gle/BoRWuHBQW1zg2tjK8" target="_blank">Post-workshop survey</a>
+-   After the workshop: <a href="https://forms.gle/2J8bXkQrBNw3x6ds8" target="_blank">Post-workshop survey</a>
 
 # Getting started
 
