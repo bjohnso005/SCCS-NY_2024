@@ -7,13 +7,13 @@
 # Organizers
 
 -   Andrew Gaier, Grad Center-CUNY (agaier@gradcenter.cuny.edu)
--   Daniel F. López-Lozano, CBC-AMNH (ADD dani email?)
+-   Daniel F. López-Lozano, CBC-AMNH (dlopezlozano@amnh.org)
 -   Bethany A. Johnson, CBC-AMNH (wallaceecomod@gmail.com)
 
 # Logistics
 
 -   Date: Wednesday, October 9rd
--   Time: 12:45 - 3:00 PM EDT
+-   Time: 1:00 - 3:00 PM EDT
 -   Location: TBD
 
 # Description
@@ -22,13 +22,13 @@ Species distribution modeling (SDM) is an important tool for conservation scient
 
 # Workshop Schedule
 
--   1:00 -- 1:15: Who we are & why we are here
--   1:15 -- 2:00: Introduction to species distribution modeling
--   2:00 -- 2:30: Introduction to R and Wallace
--   2:30 -- 2:45: Break / troubleshooting
--   2:45 -- 3:15: Wallace v2 live demo and walkthrough
--   3:15 -- 3:45: Using Wallace v2 with your own data
--   3:45 -- 4:00: Preview of new v3 features for conservation
+-   1:00 -- 1:10: Who we are & why we are here
+-   1:10 -- 1:40: Introduction to species distribution modeling
+-   1:40 -- 2:00: Introduction to R and Wallace
+-   2:00 -- 2:10: Break / troubleshooting
+-   2:10 -- 2:30: Wallace v2 live demo and walkthrough
+-   2:30 -- 2:45: Using Wallace v2 with your own data
+-   2:45 -- 3:00: Preview of new v3 features for conservation
 
 # Pre- & Post- Workshop Surveys
 
@@ -45,12 +45,20 @@ Please take the pre- and post-workshop surveys. They really help us!
 1.  Install R (version ≥ v.3.5.0) Download for <a href="https://cran.r-project.org/bin/windows/base/" target="_blank">Windows</a> or <a href="https://cran.r-project.org/bin/macosx/" target="_blank">Mac</a> We also recommend downloading <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank">Rstudio</a>, which makes running R visually easier.\
     Alternatively, you can use <a href="https://rstudio.cloud/" target="_blank">Rstudio cloud</a> with a Google or Github account.
 
-2.  Install the 'wallace' package from CRAN (version \#)
+2.  Install the 'wallace' package from CRAN or Github (version \#)
 
     -   Open Rstudio.
     -   Enter the following code into the terminal and hit Run.
 This may take a several minutes.  
 
+From CRAN...
+```
+install.packages("wallace")  
+library(wallace)  
+run_wallace()  
+```
+
+From Github...
 ```
 install.packages("devtools")  
 devtools::install_github("wallaceecomod/wallace@master")  
