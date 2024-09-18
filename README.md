@@ -45,11 +45,12 @@ Please take the pre- and post-workshop surveys. They really help us!
 1.  Install R (version ≥ v.3.5.0) Download for <a href="https://cran.r-project.org/bin/windows/base/" target="_blank">Windows</a> or <a href="https://cran.r-project.org/bin/macosx/" target="_blank">Mac</a> We also recommend downloading <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank">Rstudio</a>, which makes running R visually easier.\
     Alternatively, you can use <a href="https://rstudio.cloud/" target="_blank">Rstudio cloud</a> with a Google or Github account.
 
-2.  Install the 'wallace' package from CRAN or Github (version \#)
+2.  Install the 'wallace' package from CRAN or Github
 
     -   Open Rstudio.
     -   Enter the following code into the terminal and hit Run.
-This may take a several minutes.  
+This may take a several minutes.
+
 
 From CRAN...
 ```
