@@ -14,7 +14,7 @@
 
 -   Date: Wednesday, October 9rd
 -   Time: 1:00 - 3:00 PM EDT
--   Location: TBD
+-   Location: Meet at Linder Theater (Please arrive 15 minutes early).
 
 # Description
 
@@ -47,9 +47,10 @@ Please take the pre- and post-workshop surveys. They really help us!
 
 2.  Install the 'wallace' package from CRAN or Github.
 
+    **NOTE**: Due to a temporary issue with CRAN (R's official package repository), if you have a Mac with an M1, M2, or M3 processor (you can find this out by clicking on the Apple logo       in the upper left-hand corner, clicking on "About This Mac," and looking at the Processor information), you should install it from Github to get the latest version of Wallace. 
+
     -   Open Rstudio.
-    -   Enter the following code into the terminal and hit Run.
-This may take a several minutes.  
+    -   Enter the following code into the terminal and hit Run. This may take several minutes.  
 
 
 From CRAN...
